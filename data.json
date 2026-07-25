@@ -1,0 +1,31 @@
+{
+  "dataDate": "2026/7/23",
+  "validSamples": 334,
+  "dataSource": "XQ",
+  "totalCB": 378,
+  "bidPriceRanges": {
+    "noBid": { "count": 44, "cumPct": "11.6%" },
+    "lt95": { "count": 36, "cumPct": "21.2%" },
+    "95to100": { "count": 71, "cumPct": "39.9%" },
+    "100to105": { "count": 55, "cumPct": "54.5%" },
+    "105to110": { "count": 25, "cumPct": "61.1%" },
+    "110to120": { "count": 45, "cumPct": "73.0%" },
+    "gte120": { "count": 102, "cumPct": "100.0%" }
+  },
+  "avgBidPrice": 120.4,
+  "pr75": 125.0,
+  "pr90": 159.0,
+  "avgConversionValue": 107.8,
+  "avgConversionPremium": 37.8,
+  "conversionValueGt100AvgPremium": 8.4,
+  "conversionValueGte100": 134,
+  "conversionValueGte120": 97,
+  "conversionPremiumGt0": 335,
+  "conversionPremiumGte50": 100,
+  "conversionPremiumGte100": 33,
+  "history": [
+    { "date": "2026/7/23", "avgBidPrice": 120.4, "totalCB": 378, "avgConversionPremium": 37.8 },
+    { "date": "2026/7/22", "avgBidPrice": 119.8, "totalCB": 378, "avgConversionPremium": 37.2 },
+    { "date": "2026/7/21", "avgBidPrice": 121.2, "totalCB": 378, "avgConversionPremium": 38.5 }
+  ]
+}

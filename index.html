@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>可轉債 CB Dashboard</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+</head>
+<body>
+
+  <div class="header">
+    <h1>可轉債 <span>CB Dashboard</span></h1>
+    <div class="header-info">
+      <span class="date" id="dataDate">--</span>
+      <span class="source">資料來源：<strong id="dataSource">--</strong></span>
+    </div>
+  </div>
+
+  <div class="container">
+
+    <div class="stats-grid" id="statsGrid">
+      <!-- filled by JS -->
+    </div>
+
+    <div class="section-title">CB 委買價格區間分佈</div>
+    <div class="table-wrapper">
+      <table>
+        <thead>
+          <tr>
+            <th>CB 委買價格區間</th>
+            <th>無委買價格</th>
+            <th>&lt;95</th>
+            <th>95~100</th>
+            <th>100~105</th>
+            <th>105~110</th>
+            <th>110~120</th>
+            <th>&gt;=120</th>
+            <th>CB 總數</th>
+          </tr>
+        </thead>
+        <tbody id="rangeRow">
+          <!-- filled by JS -->
+        </tbody>
+      </table>
+    </div>
+
+    <div class="table-wrapper">
+      <table class="range-table">
+        <thead>
+          <tr>
+            <th colspan="2" style="text-align:left;">累計佔整體 CB 比例</th>
+          </tr>
+        </thead>
+        <tbody id="cumRow">
+          <!-- filled by JS -->
+        </tbody>
+      </table>
+    </div>
+
+    <div class="chart-wrapper">
+      <h3>CB 委買價格區間分布</h3>
+      <canvas id="barChart"></canvas>
+    </div>
+
+    <div class="section-title">轉換價值 & 溢價率</div>
+    <div class="table-wrapper">
+      <table class="range-table">
+        <tbody id="premiumRow">
+          <!-- filled by JS -->
+        </tbody>
+      </table>
+    </div>
+
+    <div class="section-title">歷史走勢 (近期)</div>
+    <div class="chart-wrapper">
+      <h3>CB 委買平均價 & 平均溢價率</h3>
+      <canvas id="lineChart"></canvas>
+    </div>
+
+  </div>
+
+  <div class="footer">
+    資料每日更新 | 可轉債投資資訊 Dashboard | Powered by GitHub Pages
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
