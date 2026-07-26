@@ -4,5 +4,11 @@
     "avgBidPrice": 113.4,
     "totalCB": 22,
     "avgConversionPremium": 13.4
+  },
+  {
+    "date": "2026/07/26",
+    "avgBidPrice": 104.9,
+    "totalCB": 25,
+    "avgConversionPremium": 65.8
   }
 ]
