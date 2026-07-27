@@ -1,5 +1,5 @@
 {
-  "dataDate": "2026/07/26",
+  "dataDate": "2026/07/27",
   "validSamples": 23,
   "sampleWithPrice": 10,
   "dataSource": "thefew.tw + TPEx + TWSE",
@@ -34,11 +34,11 @@
       "cumPct": "100.0%"
     }
   },
-  "avgBidPrice": 104.9,
-  "pr75": 108.55,
+  "avgBidPrice": 105.3,
+  "pr75": 108.0,
   "pr90": 119.7,
   "avgConversionValue": 96.0,
-  "avgConversionPremium": 65.8,
+  "avgConversionPremium": 67.0,
   "conversionValueGt100AvgPremium": 59.2,
   "conversionValueGte100": 7,
   "conversionValueGte120": 5,
@@ -100,19 +100,19 @@
       "code": "14381",
       "name": "三地開發一",
       "cb_close": 119.7,
-      "conv_value": 38.26,
-      "premium": 212.9,
-      "stock_close": 22.0,
+      "conv_value": 38.35,
+      "premium": 212.1,
+      "stock_close": 22.05,
       "conv_price": 57.5,
       "source": "thefew.tw"
     },
     {
       "code": "14664",
       "name": "聚隆四",
-      "cb_close": 116.95,
-      "conv_value": 90.43,
-      "premium": 29.3,
-      "stock_close": 17.0,
+      "cb_close": 117.5,
+      "conv_value": 88.56,
+      "premium": 32.7,
+      "stock_close": 16.65,
       "conv_price": 18.8,
       "source": "thefew.tw"
     },
@@ -139,70 +139,70 @@
     {
       "code": "14722",
       "name": "三洋實業二",
-      "cb_close": 108.55,
-      "conv_value": 87.75,
-      "premium": 23.7,
-      "stock_close": 89.5,
+      "cb_close": 108.0,
+      "conv_value": 87.65,
+      "premium": 23.2,
+      "stock_close": 89.4,
       "conv_price": 102.0,
       "source": "thefew.tw"
     },
     {
       "code": "12561",
       "name": "鮮活果汁一KY",
-      "cb_close": 102.25,
-      "conv_value": 96.58,
-      "premium": 5.9,
-      "stock_close": 183.5,
+      "cb_close": 104.95,
+      "conv_value": 97.11,
+      "premium": 8.1,
+      "stock_close": 184.5,
       "conv_price": 190.0,
       "source": "thefew.tw"
     },
     {
       "code": "13382",
       "name": "廣華二KY",
-      "cb_close": 102.25,
-      "conv_value": 40.59,
-      "premium": 151.9,
-      "stock_close": 15.75,
+      "cb_close": 102.5,
+      "conv_value": 39.95,
+      "premium": 156.6,
+      "stock_close": 15.5,
       "conv_price": 38.8,
       "source": "thefew.tw"
     },
     {
       "code": "14363",
       "name": "華友聯三",
-      "cb_close": 102.0,
-      "conv_value": 20.9,
-      "premium": 387.9,
-      "stock_close": 38.15,
+      "cb_close": 101.9,
+      "conv_value": 20.44,
+      "premium": 398.6,
+      "stock_close": 37.3,
       "conv_price": 182.5,
+      "source": "thefew.tw"
+    },
+    {
+      "code": "11011",
+      "name": "台泥一永",
+      "cb_close": 100.95,
+      "conv_value": 66.85,
+      "premium": 51.0,
+      "stock_close": 24.4,
+      "conv_price": 36.5,
       "source": "thefew.tw"
     },
     {
       "code": "13166",
       "name": "上曜六",
       "cb_close": 100.7,
-      "conv_value": 57.58,
-      "premium": 74.9,
-      "stock_close": 10.25,
+      "conv_value": 57.02,
+      "premium": 76.6,
+      "stock_close": 10.15,
       "conv_price": 17.8,
-      "source": "thefew.tw"
-    },
-    {
-      "code": "11011",
-      "name": "台泥一永",
-      "cb_close": 100.05,
-      "conv_value": 65.21,
-      "premium": 53.4,
-      "stock_close": 23.8,
-      "conv_price": 36.5,
       "source": "thefew.tw"
     },
     {
       "code": "14723",
       "name": "三洋實業三",
       "cb_close": 99.9,
-      "conv_value": 85.24,
-      "premium": 17.2,
-      "stock_close": 89.5,
+      "conv_value": 85.14,
+      "premium": 17.3,
+      "stock_close": 89.4,
       "conv_price": 105.0,
       "source": "thefew.tw"
     },
@@ -219,10 +219,10 @@
     {
       "code": "14364",
       "name": "華友聯四",
-      "cb_close": 97.0,
-      "conv_value": 27.19,
-      "premium": 256.7,
-      "stock_close": 38.15,
+      "cb_close": 97.15,
+      "conv_value": 26.59,
+      "premium": 265.4,
+      "stock_close": 37.3,
       "conv_price": 140.3,
       "source": "thefew.tw"
     },
@@ -259,6 +259,12 @@
       "avgBidPrice": 104.9,
       "totalCB": 25,
       "avgConversionPremium": 65.8
+    },
+    {
+      "date": "2026/07/27",
+      "avgBidPrice": 105.3,
+      "totalCB": 25,
+      "avgConversionPremium": 67.0
     }
   ]
 }
