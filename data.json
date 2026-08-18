@@ -1,5 +1,5 @@
 {
-  "dataDate": "2026/08/17",
+  "dataDate": "2026/08/18",
   "validSamples": 24,
   "sampleWithPrice": 10,
   "dataSource": "thefew.tw + TPEx + TWSE",
@@ -18,11 +18,11 @@
       "cumPct": "69.2%"
     },
     "100to105": {
-      "count": 4,
-      "cumPct": "84.6%"
+      "count": 5,
+      "cumPct": "88.5%"
     },
     "105to110": {
-      "count": 2,
+      "count": 1,
       "cumPct": "92.3%"
     },
     "110to120": {
@@ -34,25 +34,25 @@
       "cumPct": "100.0%"
     }
   },
-  "avgBidPrice": 105.2,
-  "pr75": 107.5,
+  "avgBidPrice": 104.7,
+  "pr75": 107.0,
   "pr90": 119.7,
-  "avgConversionValue": 94.6,
-  "avgConversionPremium": 63.1,
-  "conversionValueGt100AvgPremium": 52.1,
-  "conversionValueGte100": 8,
+  "avgConversionValue": 94.0,
+  "avgConversionPremium": 62.8,
+  "conversionValueGt100AvgPremium": 59.0,
+  "conversionValueGte100": 7,
   "conversionValueGte120": 4,
-  "conversionPremiumGt0": 18,
+  "conversionPremiumGt0": 17,
   "conversionPremiumGte50": 10,
-  "conversionPremiumGte100": 5,
+  "conversionPremiumGte100": 6,
   "cbTop20": [
     {
       "code": "4958",
       "name": "臻鼎-KY",
       "cb_close": 0,
-      "conv_value": 262.5,
-      "premium": 162.5,
-      "stock_close": 489.5,
+      "conv_value": 269.8,
+      "premium": 169.8,
+      "stock_close": 503.0,
       "conv_price": 186.45,
       "source": "TPEx (calculated)"
     },
@@ -60,9 +60,9 @@
       "code": "6669",
       "name": "緯穎",
       "cb_close": 0,
-      "conv_value": 199.8,
-      "premium": 99.8,
-      "stock_close": 6435.0,
+      "conv_value": 205.6,
+      "premium": 105.6,
+      "stock_close": 6620.0,
       "conv_price": 3220.62,
       "source": "TPEx (calculated)"
     },
@@ -70,9 +70,9 @@
       "code": "2344",
       "name": "華邦電",
       "cb_close": 0,
-      "conv_value": 167.7,
-      "premium": 67.7,
-      "stock_close": 183.5,
+      "conv_value": 165.8,
+      "premium": 65.8,
+      "stock_close": 181.5,
       "conv_price": 109.45,
       "source": "TPEx (calculated)"
     },
@@ -80,9 +80,9 @@
       "code": "3665",
       "name": "貿聯-KY",
       "cb_close": 0,
-      "conv_value": 154.5,
-      "premium": 54.5,
-      "stock_close": 2200.0,
+      "conv_value": 150.0,
+      "premium": 50.0,
+      "stock_close": 2135.0,
       "conv_price": 1423.5,
       "source": "TPEx (calculated)"
     },
@@ -97,92 +97,82 @@
       "source": "thefew.tw"
     },
     {
-      "code": "3036",
-      "name": "文曄",
-      "cb_close": 0,
-      "conv_value": 115.6,
-      "premium": 15.6,
-      "stock_close": 210.0,
-      "conv_price": 181.7,
-      "source": "TPEx (calculated)"
-    },
-    {
       "code": "14664",
       "name": "聚隆四",
-      "cb_close": 115.1,
-      "conv_value": 87.23,
-      "premium": 31.9,
-      "stock_close": 16.4,
+      "cb_close": 114.9,
+      "conv_value": 86.7,
+      "premium": 32.5,
+      "stock_close": 16.3,
       "conv_price": 18.8,
       "source": "thefew.tw"
     },
     {
-      "code": "12561",
-      "name": "鮮活果汁一KY",
-      "cb_close": 107.5,
-      "conv_value": 94.21,
-      "premium": 14.1,
-      "stock_close": 179.0,
-      "conv_price": 190.0,
-      "source": "thefew.tw"
-    },
-    {
-      "code": "3231",
-      "name": "緯創",
+      "code": "3036",
+      "name": "文曄",
       "cb_close": 0,
-      "conv_value": 107.5,
-      "premium": 7.5,
-      "stock_close": 193.5,
-      "conv_price": 179.96,
+      "conv_value": 112.3,
+      "premium": 12.3,
+      "stock_close": 204.0,
+      "conv_price": 181.7,
       "source": "TPEx (calculated)"
     },
     {
       "code": "14722",
       "name": "三洋實業二",
       "cb_close": 107.0,
-      "conv_value": 87.45,
-      "premium": 22.4,
-      "stock_close": 89.2,
+      "conv_value": 86.76,
+      "premium": 23.3,
+      "stock_close": 88.5,
       "conv_price": 102.0,
       "source": "thefew.tw"
-    },
-    {
-      "code": "2376",
-      "name": "技嘉",
-      "cb_close": 0,
-      "conv_value": 106.0,
-      "premium": 6.0,
-      "stock_close": 397.5,
-      "conv_price": 375.0,
-      "source": "TPEx (calculated)"
     },
     {
       "code": "4919",
       "name": "新唐",
       "cb_close": 0,
-      "conv_value": 103.6,
-      "premium": 3.6,
-      "stock_close": 123.0,
+      "conv_value": 105.7,
+      "premium": 5.7,
+      "stock_close": 125.5,
       "conv_price": 118.68,
       "source": "TPEx (calculated)"
+    },
+    {
+      "code": "3231",
+      "name": "緯創",
+      "cb_close": 0,
+      "conv_value": 103.9,
+      "premium": 3.9,
+      "stock_close": 187.0,
+      "conv_price": 179.96,
+      "source": "TPEx (calculated)"
+    },
+    {
+      "code": "12561",
+      "name": "鮮活果汁一KY",
+      "cb_close": 102.55,
+      "conv_value": 92.37,
+      "premium": 11.0,
+      "stock_close": 175.5,
+      "conv_price": 190.0,
+      "source": "thefew.tw"
     },
     {
       "code": "13382",
       "name": "廣華二KY",
       "cb_close": 102.5,
-      "conv_value": 37.63,
-      "premium": 172.4,
-      "stock_close": 14.6,
+      "conv_value": 37.37,
+      "premium": 174.3,
+      "stock_close": 14.5,
       "conv_price": 38.8,
       "source": "thefew.tw"
     },
     {
       "code": "14363",
       "name": "華友聯三",
-      "cb_close": 102.25,
-      "conv_value": 20.44,
-      "premium": 400.3,
-      "stock_close": 37.3,
+      "cb_close": 102.35,
+      "conv_value": 20.58,
+      "premium": 397.4,
+      "stock_close": 37.55,
       "conv_price": 182.5,
       "source": "thefew.tw"
     },
@@ -190,9 +180,9 @@
       "code": "11011",
       "name": "台泥一永",
       "cb_close": 101.5,
-      "conv_value": 66.3,
-      "premium": 53.1,
-      "stock_close": 24.2,
+      "conv_value": 66.03,
+      "premium": 53.7,
+      "stock_close": 24.1,
       "conv_price": 36.5,
       "source": "thefew.tw"
     },
@@ -200,9 +190,9 @@
       "code": "13166",
       "name": "上曜六",
       "cb_close": 100.5,
-      "conv_value": 60.67,
-      "premium": 65.6,
-      "stock_close": 10.8,
+      "conv_value": 58.71,
+      "premium": 71.2,
+      "stock_close": 10.45,
       "conv_price": 17.8,
       "source": "thefew.tw"
     },
@@ -210,9 +200,9 @@
       "code": "14723",
       "name": "三洋實業三",
       "cb_close": 99.0,
-      "conv_value": 84.95,
-      "premium": 16.5,
-      "stock_close": 89.2,
+      "conv_value": 84.29,
+      "premium": 17.5,
+      "stock_close": 88.5,
       "conv_price": 105.0,
       "source": "thefew.tw"
     },
@@ -220,19 +210,29 @@
       "code": "14364",
       "name": "華友聯四",
       "cb_close": 97.2,
-      "conv_value": 26.59,
-      "premium": 265.6,
-      "stock_close": 37.3,
+      "conv_value": 26.76,
+      "premium": 263.2,
+      "stock_close": 37.55,
       "conv_price": 140.3,
       "source": "thefew.tw"
+    },
+    {
+      "code": "2376",
+      "name": "技嘉",
+      "cb_close": 0,
+      "conv_value": 95.5,
+      "premium": -4.5,
+      "stock_close": 358.0,
+      "conv_price": 375.0,
+      "source": "TPEx (calculated)"
     },
     {
       "code": "3706",
       "name": "神達",
       "cb_close": 0,
-      "conv_value": 95.6,
-      "premium": -4.4,
-      "stock_close": 92.7,
+      "conv_value": 94.9,
+      "premium": -5.1,
+      "stock_close": 92.1,
       "conv_price": 97.01,
       "source": "TPEx (calculated)"
     },
@@ -240,9 +240,9 @@
       "code": "2382",
       "name": "廣達",
       "cb_close": 0,
-      "conv_value": 91.9,
-      "premium": -8.1,
-      "stock_close": 327.5,
+      "conv_value": 93.6,
+      "premium": -6.4,
+      "stock_close": 333.5,
       "conv_price": 356.25,
       "source": "TPEx (calculated)"
     }
@@ -261,10 +261,10 @@
       "avgConversionPremium": 65.8
     },
     {
-      "date": "2026/08/17",
-      "avgBidPrice": 105.2,
+      "date": "2026/08/18",
+      "avgBidPrice": 104.7,
       "totalCB": 26,
-      "avgConversionPremium": 63.1
+      "avgConversionPremium": 62.8
     }
   ]
 }
