@@ -1,5 +1,5 @@
 {
-  "dataDate": "2026/09/25",
+  "dataDate": "2026/09/28",
   "validSamples": 26,
   "sampleWithPrice": 10,
   "dataSource": "thefew.tw + TPEx + TWSE",
@@ -261,7 +261,7 @@
       "avgConversionPremium": 65.8
     },
     {
-      "date": "2026/09/25",
+      "date": "2026/09/28",
       "avgBidPrice": 105.2,
       "totalCB": 28,
       "avgConversionPremium": 54.3
