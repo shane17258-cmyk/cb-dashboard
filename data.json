@@ -1,5 +1,5 @@
 {
-  "dataDate": "2026/10/08",
+  "dataDate": "2026/10/09",
   "validSamples": 27,
   "sampleWithPrice": 10,
   "dataSource": "thefew.tw + TPEx + TWSE",
@@ -37,9 +37,9 @@
   "avgBidPrice": 104.3,
   "pr75": 105.55,
   "pr90": 119.7,
-  "avgConversionValue": 93.5,
-  "avgConversionPremium": 38.8,
-  "conversionValueGt100AvgPremium": 58.4,
+  "avgConversionValue": 93.2,
+  "avgConversionPremium": 38.5,
+  "conversionValueGt100AvgPremium": 57.6,
   "conversionValueGte100": 7,
   "conversionValueGte120": 4,
   "conversionPremiumGt0": 17,
@@ -50,39 +50,39 @@
       "code": "4958",
       "name": "臻鼎-KY",
       "cb_close": 0,
-      "conv_value": 319.1,
-      "premium": 219.1,
-      "stock_close": 595.0,
+      "conv_value": 317.5,
+      "premium": 217.5,
+      "stock_close": 592.0,
       "conv_price": 186.45,
-      "source": "TPEx (calculated)"
-    },
-    {
-      "code": "2344",
-      "name": "華邦電",
-      "cb_close": 0,
-      "conv_value": 164.0,
-      "premium": 64.0,
-      "stock_close": 179.5,
-      "conv_price": 109.45,
       "source": "TPEx (calculated)"
     },
     {
       "code": "3665",
       "name": "貿聯-KY",
       "cb_close": 0,
-      "conv_value": 162.6,
-      "premium": 62.6,
-      "stock_close": 2315.0,
+      "conv_value": 165.8,
+      "premium": 65.8,
+      "stock_close": 2360.0,
       "conv_price": 1423.5,
+      "source": "TPEx (calculated)"
+    },
+    {
+      "code": "2344",
+      "name": "華邦電",
+      "cb_close": 0,
+      "conv_value": 161.7,
+      "premium": 61.7,
+      "stock_close": 177.0,
+      "conv_price": 109.45,
       "source": "TPEx (calculated)"
     },
     {
       "code": "4919",
       "name": "新唐",
       "cb_close": 0,
-      "conv_value": 134.4,
-      "premium": 34.4,
-      "stock_close": 159.5,
+      "conv_value": 131.0,
+      "premium": 31.0,
+      "stock_close": 155.5,
       "conv_price": 118.68,
       "source": "TPEx (calculated)"
     },
@@ -104,16 +104,6 @@
       "premium": 18.6,
       "stock_close": 215.5,
       "conv_price": 181.7,
-      "source": "TPEx (calculated)"
-    },
-    {
-      "code": "2454",
-      "name": "聯發科",
-      "cb_close": 0,
-      "conv_value": 107.1,
-      "premium": 7.1,
-      "stock_close": 4835.0,
-      "conv_price": 4513.75,
       "source": "TPEx (calculated)"
     },
     {
@@ -150,10 +140,20 @@
       "code": "3231",
       "name": "緯創",
       "cb_close": 0,
-      "conv_value": 102.8,
-      "premium": 2.8,
-      "stock_close": 185.0,
+      "conv_value": 104.7,
+      "premium": 4.7,
+      "stock_close": 188.5,
       "conv_price": 179.96,
+      "source": "TPEx (calculated)"
+    },
+    {
+      "code": "2454",
+      "name": "聯發科",
+      "cb_close": 0,
+      "conv_value": 103.9,
+      "premium": 3.9,
+      "stock_close": 4690.0,
+      "conv_price": 4513.75,
       "source": "TPEx (calculated)"
     },
     {
@@ -220,9 +220,9 @@
       "code": "2376",
       "name": "技嘉",
       "cb_close": 0,
-      "conv_value": 97.5,
-      "premium": -2.5,
-      "stock_close": 365.5,
+      "conv_value": 96.8,
+      "premium": -3.2,
+      "stock_close": 363.0,
       "conv_price": 375.0,
       "source": "TPEx (calculated)"
     },
@@ -230,20 +230,20 @@
       "code": "2382",
       "name": "廣達",
       "cb_close": 0,
-      "conv_value": 94.0,
-      "premium": -6.0,
-      "stock_close": 335.0,
+      "conv_value": 91.4,
+      "premium": -8.6,
+      "stock_close": 325.5,
       "conv_price": 356.25,
       "source": "TPEx (calculated)"
     },
     {
-      "code": "2317",
-      "name": "鴻海",
+      "code": "3706",
+      "name": "神達",
       "cb_close": 0,
-      "conv_value": 84.0,
-      "premium": -16.0,
-      "stock_close": 252.0,
-      "conv_price": 300.0,
+      "conv_value": 83.1,
+      "premium": -16.9,
+      "stock_close": 80.6,
+      "conv_price": 97.01,
       "source": "TPEx (calculated)"
     }
   ],
@@ -261,10 +261,10 @@
       "avgConversionPremium": 65.8
     },
     {
-      "date": "2026/10/08",
+      "date": "2026/10/09",
       "avgBidPrice": 104.3,
       "totalCB": 29,
-      "avgConversionPremium": 38.8
+      "avgConversionPremium": 38.5
     }
   ]
 }
