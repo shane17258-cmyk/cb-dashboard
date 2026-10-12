@@ -1,5 +1,5 @@
 {
-  "dataDate": "2026/10/09",
+  "dataDate": "2026/10/12",
   "validSamples": 27,
   "sampleWithPrice": 10,
   "dataSource": "thefew.tw + TPEx + TWSE",
@@ -10,15 +10,15 @@
       "cumPct": "65.5%"
     },
     "lt95": {
-      "count": 0,
-      "cumPct": "65.5%"
-    },
-    "95to100": {
       "count": 1,
       "cumPct": "69.0%"
     },
+    "95to100": {
+      "count": 1,
+      "cumPct": "72.4%"
+    },
     "100to105": {
-      "count": 6,
+      "count": 5,
       "cumPct": "89.7%"
     },
     "105to110": {
@@ -34,15 +34,15 @@
       "cumPct": "100.0%"
     }
   },
-  "avgBidPrice": 104.3,
+  "avgBidPrice": 94.4,
   "pr75": 105.55,
   "pr90": 119.7,
-  "avgConversionValue": 93.2,
-  "avgConversionPremium": 38.5,
+  "avgConversionValue": 93.3,
+  "avgConversionPremium": 39.1,
   "conversionValueGt100AvgPremium": 57.6,
   "conversionValueGte100": 7,
   "conversionValueGte120": 4,
-  "conversionPremiumGt0": 17,
+  "conversionPremiumGt0": 16,
   "conversionPremiumGte50": 8,
   "conversionPremiumGte100": 5,
   "cbTop20": [
@@ -90,9 +90,9 @@
       "code": "14381",
       "name": "三地開發一",
       "cb_close": 119.7,
-      "conv_value": 42.12,
-      "premium": 184.2,
-      "stock_close": 21.6,
+      "conv_value": 42.8,
+      "premium": 179.6,
+      "stock_close": 21.95,
       "conv_price": 51.28,
       "source": "thefew.tw"
     },
@@ -110,9 +110,9 @@
       "code": "14722",
       "name": "三洋實業二",
       "cb_close": 107.0,
-      "conv_value": 97.61,
-      "premium": 9.6,
-      "stock_close": 89.7,
+      "conv_value": 96.19,
+      "premium": 11.2,
+      "stock_close": 88.4,
       "conv_price": 91.9,
       "source": "thefew.tw"
     },
@@ -120,9 +120,9 @@
       "code": "14664",
       "name": "聚隆四",
       "cb_close": 105.55,
-      "conv_value": 76.61,
-      "premium": 37.8,
-      "stock_close": 14.25,
+      "conv_value": 77.42,
+      "premium": 36.3,
+      "stock_close": 14.4,
       "conv_price": 18.6,
       "source": "thefew.tw"
     },
@@ -130,9 +130,9 @@
       "code": "13382",
       "name": "廣華二KY",
       "cb_close": 104.75,
-      "conv_value": 40.92,
-      "premium": 156.0,
-      "stock_close": 15.1,
+      "conv_value": 40.24,
+      "premium": 160.3,
+      "stock_close": 14.85,
       "conv_price": 36.9,
       "source": "thefew.tw"
     },
@@ -159,10 +159,10 @@
     {
       "code": "11011",
       "name": "台泥一永",
-      "cb_close": 102.3,
-      "conv_value": 75.59,
-      "premium": 35.3,
-      "stock_close": 25.7,
+      "cb_close": 103.45,
+      "conv_value": 79.41,
+      "premium": 30.3,
+      "stock_close": 27.0,
       "conv_price": 34.0,
       "source": "thefew.tw"
     },
@@ -170,39 +170,29 @@
       "code": "13166",
       "name": "上曜六",
       "cb_close": 102.0,
-      "conv_value": 58.43,
-      "premium": 74.6,
-      "stock_close": 10.4,
-      "conv_price": 17.8,
+      "conv_value": 60.4,
+      "premium": 68.9,
+      "stock_close": 10.45,
+      "conv_price": 17.3,
       "source": "thefew.tw"
     },
     {
       "code": "12561",
       "name": "鮮活果汁一KY",
       "cb_close": 101.9,
-      "conv_value": 91.78,
-      "premium": 11.0,
-      "stock_close": 167.5,
+      "conv_value": 92.05,
+      "premium": 10.7,
+      "stock_close": 168.0,
       "conv_price": 182.5,
-      "source": "thefew.tw"
-    },
-    {
-      "code": "14723",
-      "name": "三洋實業三",
-      "cb_close": 101.0,
-      "conv_value": 94.82,
-      "premium": 6.5,
-      "stock_close": 89.7,
-      "conv_price": 94.6,
       "source": "thefew.tw"
     },
     {
       "code": "14363",
       "name": "華友聯三",
       "cb_close": 100.0,
-      "conv_value": 31.5,
-      "premium": 217.5,
-      "stock_close": 36.0,
+      "conv_value": 31.8,
+      "premium": 214.4,
+      "stock_close": 36.35,
       "conv_price": 114.3,
       "source": "thefew.tw"
     },
@@ -210,9 +200,9 @@
       "code": "14364",
       "name": "華友聯四",
       "cb_close": 99.1,
-      "conv_value": 40.96,
-      "premium": 142.0,
-      "stock_close": 36.0,
+      "conv_value": 41.35,
+      "premium": 139.6,
+      "stock_close": 36.35,
       "conv_price": 87.9,
       "source": "thefew.tw"
     },
@@ -245,6 +235,16 @@
       "stock_close": 80.6,
       "conv_price": 97.01,
       "source": "TPEx (calculated)"
+    },
+    {
+      "code": "2317",
+      "name": "鴻海",
+      "cb_close": 0,
+      "conv_value": 83.0,
+      "premium": -17.0,
+      "stock_close": 249.0,
+      "conv_price": 300.0,
+      "source": "TPEx (calculated)"
     }
   ],
   "history": [
@@ -261,10 +261,10 @@
       "avgConversionPremium": 65.8
     },
     {
-      "date": "2026/10/09",
-      "avgBidPrice": 104.3,
+      "date": "2026/10/12",
+      "avgBidPrice": 94.4,
       "totalCB": 29,
-      "avgConversionPremium": 38.5
+      "avgConversionPremium": 39.1
     }
   ]
 }
